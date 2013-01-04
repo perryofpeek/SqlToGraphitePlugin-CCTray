@@ -67,15 +67,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CcTray.cs" />
+    <Compile Include="DateTimeNowImpl.cs" />
     <Compile Include="EndpointImpl.cs" />
     <Compile Include="HttpException.cs" />
     <Compile Include="HttpGet.cs" />
     <Compile Include="ICcTray.cs" />
+    <Compile Include="IDateTimeNow.cs" />
     <Compile Include="IEndPoint.cs" />
     <Compile Include="IHttpGet.cs" />
     <Compile Include="IProject.cs" />
     <Compile Include="Pipeline.cs" />
     <Compile Include="Project.cs" />
+    <Compile Include="ProjectLengths.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CCTrayClient.cs" />
   </ItemGroup>

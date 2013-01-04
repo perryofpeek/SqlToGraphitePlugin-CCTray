@@ -1,0 +1,21 @@
+-- Totals
+Total number of builds
+Total Number Passed 
+Total Number Failed 
+
+--state 
+
+Total sleeping 
+Total Running 
+
+
+Foreach Pipeline 
+	Total time from first to last 
+	Time since last build
+	Time spent red 
+	Time spent green 
+	Time spent building 
+ 	
+
+
+
